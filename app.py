@@ -1,3 +1,9 @@
 print("ali")
 print("reza")
-print("mamad")
+print("mamad0")
+
+
+
+print("ali")
+print("reza")
+print("mamad0")
